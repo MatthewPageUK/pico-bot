@@ -12,6 +12,7 @@ A desktop bot for fun... wobbles around, falls over, blinks and shows the data f
 
 ![image](https://user-images.githubusercontent.com/46349796/215340569-b479f6d4-0882-48ab-8d58-b1d60750426b.png)
 
+![IMG_20230129_160543](https://user-images.githubusercontent.com/46349796/215343148-85ff0030-b5b4-40a9-863d-3b644d12eb6d.jpg)
 
 ## Printing
 Printed on an Ender 3 Neo v2 with standard settings and PLA filament.
