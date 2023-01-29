@@ -8,6 +8,11 @@ A desktop bot for fun... wobbles around, falls over, blinks and shows the data f
 * Tiny button
 * 8 x 1mm magnets
 
+![image](https://user-images.githubusercontent.com/46349796/215340545-73ee3724-886f-4bb9-b57f-21ca3c79662e.png)
+
+![image](https://user-images.githubusercontent.com/46349796/215340569-b479f6d4-0882-48ab-8d58-b1d60750426b.png)
+
+
 ## Printing
 Printed on an Ender 3 Neo v2 with standard settings and PLA filament.
 
