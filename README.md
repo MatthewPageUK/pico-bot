@@ -15,8 +15,9 @@ A desktop bot for fun... wobbles around, falls over, blinks and shows the data f
 ![IMG_20230129_160543](https://user-images.githubusercontent.com/46349796/215343148-85ff0030-b5b4-40a9-863d-3b644d12eb6d.jpg)
 
 ## Micropython
-Not all firmware appears to work, if you have problems try the one included here
-https://www.waveshare.com/w/upload/9/9d/RP2040-LCD-1.28.zip
+You'll need 1.19, not all firmware appears to work, if you have problems try the one included here https://www.waveshare.com/w/upload/9/9d/RP2040-LCD-1.28.zip to test your device. You'll then need download the "Pico with Pimoroni Libraries" via Thonny or https://github.com/pimoroni/pimoroni-pico/releases
+
+All this because I used the ellipse method in framebuf which didn't appear till 1.19. Apparently circles are cutting edge and only just released!
 
 ## Printing
 Printed on an Ender 3 Neo v2 with standard settings and PLA filament.
